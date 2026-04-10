@@ -1,0 +1,5 @@
+{
+  "name": "Restaurante Badida - Diário de Obra",
+  "description": "Aplicativo para acompanhamento de obra, integrado com Supabase e IA (Gemini) para análise de diários, serviços e geração de relatórios.",
+  "requestFramePermissions": ["microphone"]
+}
